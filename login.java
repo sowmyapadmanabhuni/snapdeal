@@ -1,1 +1,1 @@
-login.java is a new file
+login.java is a new foo
